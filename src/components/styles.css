@@ -1,0 +1,83 @@
+
+
+
+.titulo{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    
+  
+}
+
+.salario{
+    justify-content: left;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+  
+  
+}
+
+.salario2{
+    justify-content: left;
+    display: flex;
+    flex-wrap: row;
+    flex-direction: row;
+  
+    
+  
+}
+
+p{
+    color:gray;
+}
+
+p1{
+    
+    color: white;
+  
+
+}
+
+.base{
+    width: 400px;
+    padding:10px;
+    
+
+    
+}
+
+
+.salariol{
+    justify-content: left;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    
+
+}
+
+.barra{
+    display: flex;
+
+}
+
+.discINSS{
+    color:blue;
+    font-weight: bold;
+}
+
+.discIRPF{
+    color:red;
+    font-weight: bold;
+    
+}
+.netSalary{
+    color:green;
+    font-weight: bold;
+}
+
+.basein{
+ 
+    font-weight: bold;
+}
