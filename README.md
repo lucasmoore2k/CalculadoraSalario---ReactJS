@@ -1,3 +1,10 @@
+
+<h3>Screen of project:</h3>
+
+<img src="https://github.com/lucasmoore2k/ReactJS-CalculadoraSalario/blob/master/src/components/tela_app.png"></img>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
